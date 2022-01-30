@@ -152,7 +152,7 @@ a:link, a:visited {
 }
 
 #system {
-  width: 400px;
+  width: 350px;
   margin: 0 auto;
   color: #1D1D1F;
 }
