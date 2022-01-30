@@ -152,7 +152,7 @@ a:link, a:visited {
 }
 
 #system {
-  width: 800px;
+  width: 400px;
   margin: 0 auto;
   color: #1D1D1F;
 }
@@ -184,7 +184,7 @@ a:link, a:visited {
 
 .section {
   position: relative;
-  width: 380px;
+  width: 160px;
   border-radius: 10px;
   background: #FBFBFD;
   overflow: hidden;
