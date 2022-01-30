@@ -44,7 +44,7 @@ export default {
     }
   },
   created() {
-    this.$http.get(this.$store.state.api + '/X/getProfileData').then((response) => {
+    this.$http.get(this.$store.state.api + '/X/getProfileDataMobile').then((response) => {
       this.$store.commit('updateSystemData', response.data);
       this.UserMeta = response.data.home;
     });
