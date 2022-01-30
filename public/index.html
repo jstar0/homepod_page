@@ -18,10 +18,10 @@
     <script>
       //判断设备是否为手机
       !function () {
-        var devices = ["iPhone","Android","Windows Phone"]
+        var devices = ["iPad","Desktop","Blackberry"]
         var ua = window.navigator.userAgent
         for (var i = 0; i < devices.length; i++) {
-            if (ua.indexOf(devices[i]) == -1) {
+            if (ua.indexOf(devices[i]) != -1) {
                 window.location.href = 'https://www.jszw.ml'
             }
         }
