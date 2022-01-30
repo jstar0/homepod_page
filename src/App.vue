@@ -40,7 +40,7 @@ export default {
 
 #wrap-content {
   /*position: relative;*/
-  width: 1200px;
+  width: 400px;
   height: 600px;
   border-radius: 15px;
 }
