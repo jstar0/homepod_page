@@ -26,7 +26,7 @@ export default {
       UserMeta: {
         avatar: 'https://sdn.geekzu.org/avatar/d42da1c33b856e2314219d0439dcdcde?s=200',
         username: '景星',
-        detail: '⭐ 胸有大海星辰，不负青春 ⭐\n🏔 鹰隼试翼，风尘翕张 🌄\n欢迎来到景星的个人主页。\n当前网络加载较慢，已为您展示静态版。',
+        detail: '网络加载较慢，正您展示静态版。\n⭐ 胸有大海星辰，不负青春 ⭐\n🏔 鹰隼试翼，风尘翕张 🌄\n欢迎来到景星的个人主页。',
         footer: ''
       },
       emoji: '✨'
