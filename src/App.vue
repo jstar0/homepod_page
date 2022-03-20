@@ -59,7 +59,7 @@ export default {
   -webkit-background-size: cover;
   -o-background-size: cover;
   background-position: center 0;
-  background-image: url(https://cdn.jsdelivr.net/gh/mcXinEra/Resource/JS/bkg.png);
+  background-image: url(https://api.jszw.ml/CDN/Blog/JS/bkg.png);
   opacity: 0.20;
 }
 
