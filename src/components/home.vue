@@ -8,7 +8,7 @@
     <div id="home-r">
       <div>
         <h3><span @click="hi(1)" @mouseover="hi(0)" class="animate__animated animate__wobble">{{ emoji }}</span> 您好,
-          我是 {{ UserMeta.username }}</h3>
+          我是{{ UserMeta.username }}</h3>
         <div class="text-wrapper"><p>{{ UserMeta.detail }}</p></div>
         <button id="more" @click="more">More</button>
       </div>
