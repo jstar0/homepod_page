@@ -7,8 +7,8 @@
     </div>
     <div id="home-r">
       <div>
-        <h3><span @click="hi(1)" @mouseover="hi(0)" class="animate__animated animate__wobble">{{ emoji }}</span> 您好,
-          我是{{ UserMeta.username }}</h3>
+        <h3><span @click="hi(1)" @mouseover="hi(0)" class="animate__animated animate__wobble">{{ emoji }}</span> 您好，
+          我是 {{ UserMeta.username }}</h3>
         <div class="text-wrapper"><p>{{ UserMeta.detail }}</p></div>
         <button id="more" @click="more">More</button>
       </div>
@@ -26,7 +26,7 @@ export default {
       UserMeta: {
         avatar: 'https://sdn.geekzu.org/avatar/d42da1c33b856e2314219d0439dcdcde?s=200',
         username: '景星',
-        detail: '网络加载较慢，请稍候……\n⭐ 胸有大海星辰，不负青春 ⭐\n🌅 鹰隼试翼，风尘翕张 🌻\n欢迎来到景星的个人主页。',
+        detail: '数据正在加载中，请稍候……\n⭐ 胸有大海星辰，不负青春 ⭐\n🌅 鹰隼试翼，风尘翕张 🌻\n欢迎来到景星的个人主页。',
         footer: ''
       },
       emoji: '✨'
