@@ -142,7 +142,7 @@ export default {
 }
 
 #footer >>> a,#footer a:link,#footer a:visited, a:-webkit-any-link{
-  color: #86868b!important;
+  color: #1989fa!important;
   text-decoration: none;
 }
 
