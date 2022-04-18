@@ -140,8 +140,8 @@
     <div class="item" id="recent" @click="showPopup">
       <div class="item-content">
         <h3>
-          心纪元博客<br/>
-          <span>最近的文章</span>
+          心纪元近期博文<br/>
+          <span>Recent Posts</span>
         </h3>
       </div>
     </div>
