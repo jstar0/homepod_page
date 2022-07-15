@@ -35,7 +35,7 @@ const store = createStore({
                 DB: '加载中'
             },
             OriginData:{},
-            api: "https://api.jszw.ml"
+            api: "https://api.jstar.vip"
         }
     },
     mutations: {
